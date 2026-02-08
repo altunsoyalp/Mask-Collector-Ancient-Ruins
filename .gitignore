@@ -1,0 +1,25 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[MemoryCaptures]/
+
+# Asset Store paketlerini hariç tutmak istersen:
+/[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / Rider geçici dosyaları
+.vs/
+.gradle/
+ExportedObj/
+.directory
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.unitypackage
+*.apk
+*.unityexp
